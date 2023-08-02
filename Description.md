@@ -9,6 +9,8 @@ Collect and consolidate pizza sales data, including transaction dates, locations
 3) Sales Performance Analysis:
 Use Power BI to perform in-depth analysis of pizza sales performance. Calculate metrics such as total sales revenue, average order value, and sales growth over time. Identify top-selling pizzas, popular add-ons, and best-performing locations.
 
+Expected Deliverables:
+
 1)How many customers do we have each day? Are there any peak hours?
 
 2)How many pizzas are typically in an order? Do we have any bestsellers?
